@@ -1,0 +1,3 @@
+This is some code I wrote for Discrete Structures, a class I took at Portland Community College. One day in class our linux server that we all used to write and run our C++ applications wasn't working. Since all we needed was a simple way to draw lines, I suggested we use javascript, since the lab computers all had a web browser (and therefore a javascript IDE). I quickly whipped up some code that draws lines on a canvas, and my instructor was convinced that javascript would work. We made fractal-like trees, and then modified them to our liking.
+
+Check it out online [here!](http://evanhackett.com/trees)
